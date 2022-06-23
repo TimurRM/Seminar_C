@@ -1,0 +1,15 @@
+/Users/timurrahimov/Desktop/Sem_C/bin/Debug/net6.0/Sem_C
+/Users/timurrahimov/Desktop/Sem_C/bin/Debug/net6.0/Sem_C.deps.json
+/Users/timurrahimov/Desktop/Sem_C/bin/Debug/net6.0/Sem_C.runtimeconfig.json
+/Users/timurrahimov/Desktop/Sem_C/bin/Debug/net6.0/Sem_C.dll
+/Users/timurrahimov/Desktop/Sem_C/bin/Debug/net6.0/Sem_C.pdb
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.csproj.AssemblyReference.cache
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.AssemblyInfoInputs.cache
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.AssemblyInfo.cs
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.csproj.CoreCompileInputs.cache
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.dll
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/refint/Sem_C.dll
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.pdb
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/Sem_C.genruntimeconfig.cache
+/Users/timurrahimov/Desktop/Sem_C/obj/Debug/net6.0/ref/Sem_C.dll
