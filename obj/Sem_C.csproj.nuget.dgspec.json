@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/timurrahimov/Desktop/Sem_C/Sem_C.csproj": {}
+    "/Users/relax/Desktop/Seminar_C/Sem_C.csproj": {}
   },
   "projects": {
-    "/Users/timurrahimov/Desktop/Sem_C/Sem_C.csproj": {
+    "/Users/relax/Desktop/Seminar_C/Sem_C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/timurrahimov/Desktop/Sem_C/Sem_C.csproj",
+        "projectUniqueName": "/Users/relax/Desktop/Seminar_C/Sem_C.csproj",
         "projectName": "Sem_C",
-        "projectPath": "/Users/timurrahimov/Desktop/Sem_C/Sem_C.csproj",
-        "packagesPath": "/Users/timurrahimov/.nuget/packages/",
-        "outputPath": "/Users/timurrahimov/Desktop/Sem_C/obj/",
+        "projectPath": "/Users/relax/Desktop/Seminar_C/Sem_C.csproj",
+        "packagesPath": "/Users/relax/.nuget/packages/",
+        "outputPath": "/Users/relax/Desktop/Seminar_C/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/timurrahimov/.nuget/NuGet/NuGet.Config"
+          "/Users/relax/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
